@@ -118,10 +118,10 @@
 | col  is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |  
 
- > Таблица №12
+ > Таблица №13
   
-Markdown | Less | Pretty
+strong | beautiful | beloved
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+*мама* | `папа` | **дочь**
+100 | 100 | 100
 
