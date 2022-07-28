@@ -118,7 +118,10 @@
 | col  is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |  
 
- > Таблица №13
+
+
+
+> Таблица №5
   
 strong | beautiful | beloved
 --- | --- | ---
